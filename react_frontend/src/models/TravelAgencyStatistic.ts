@@ -1,4 +1,4 @@
-export interface PatientStatistic {
+export interface TravelAgencyStatistic {
     id? : number;
     name : string;
     website : string;
